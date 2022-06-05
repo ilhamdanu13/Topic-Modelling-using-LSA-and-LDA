@@ -1,4 +1,4 @@
-# Topic-Modelling-using-LSA-and-LDA
+# Topic Modelling using LSA and LDA
 In this project, I will do a modeling topic by utilizing _Dimensionality Reduction_ in text data which is news data. By compressing text data, it will get important components. So, the result of these important components is the topic of the news. So he will group certain topics from the news.
 
 # Import Package
